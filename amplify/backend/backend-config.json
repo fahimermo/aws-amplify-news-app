@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"newsse8fe13db6": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-newsse-env-54013-authRole",
+            "UnauthRoleArn": "arn:aws:iam::766060587109:role/amplify-newsse-env-54013-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::766060587109:role/amplify-newsse-env-54013-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-newsse-env-54013-deployment",
+            "UnauthRoleName": "amplify-newsse-env-54013-unauthRole",
+            "StackName": "amplify-newsse-env-54013",
+            "StackId": "arn:aws:cloudformation:us-east-1:766060587109:stack/amplify-newsse-env-54013/4d69be70-8a94-11ea-be66-12d8771823f5",
+            "AmplifyAppId": "d8t78atr304y8"
+        },
+        "categories": {
+            "auth": {
+                "newsse8fe13db6": {}
+            }
+        }
+    }
+}
